@@ -2,7 +2,40 @@ package main
 
 import "fmt"
 
+
+B
+
 func main() {
-	fmt.Println("Hello, World!")
+Diiiii:;
+
+
+
+
+D
+B
+A
+A
+A
+B
+B
+D
+D
+D
+D
+D
+D
+D
+iiicccccc
+D
+D
+D
+D
+D
+C:
+C
+C
+C
+C
+	fmt.Println("Hello::;o, World!")
 }
 
